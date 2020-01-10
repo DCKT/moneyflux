@@ -1,0 +1,19 @@
+####{BSB GENERATED: NO EDIT
+B lib/bs
+FLG -open ReasonmlCreateReactApp
+FLG -ppx '/Users/dck/Projects/money-flux/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /Users/dck/Projects/money-flux/node_modules/bs-platform/lib/ocaml
+B /Users/dck/Projects/money-flux/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /Users/dck/Projects/money-flux/node_modules/reason-react/lib/ocaml
+B /Users/dck/Projects/money-flux/node_modules/reason-react/lib/ocaml
+S /Users/dck/Projects/money-flux/node_modules/reason-react-update/lib/ocaml
+B /Users/dck/Projects/money-flux/node_modules/reason-react-update/lib/ocaml
+S src
+B lib/bs/src
+S src/interfaces
+B lib/bs/src/interfaces
+S src/components
+B lib/bs/src/components
+####BSB GENERATED: NO EDIT}
